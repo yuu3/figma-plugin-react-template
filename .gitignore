@@ -1,0 +1,5 @@
+node_modules
+dist
+.env
+manifest.json
+.DS_Store
